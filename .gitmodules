@@ -1,0 +1,6 @@
+[submodule "log-of-visits-backend"]
+	path = log-of-visits-backend
+	url = https://github.com/Sedose/log-of-visits-backend.git
+[submodule "log-of-visits-frontend"]
+	path = log-of-visits-frontend
+	url = https://github.com/Sedose/log-of-visits-frontend.git
